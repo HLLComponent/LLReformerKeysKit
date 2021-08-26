@@ -1,0 +1,6 @@
+framework module Pods_LLReformerKeysKit_Example {
+  umbrella header "Pods-LLReformerKeysKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

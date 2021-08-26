@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LLReformerKeysKit'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of LLReformerKeysKit.'
+  s.version          = '1'
+  s.summary          = 'LLReformerKeysKit 组件.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/wawahuhu/LLReformerKeysKit'
+  s.homepage         = 'https://github.com/HLLComponent/LLReformerKeysKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'wawahuhu' => 'huuuu1016@gmail.com' }
-  s.source           = { :git => 'https://github.com/wawahuhu/LLReformerKeysKit.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/HLLComponent/LLReformerKeysKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'

@@ -1,0 +1,16 @@
+PODS:
+  - LLReformerKeysKit (0.1.0)
+
+DEPENDENCIES:
+  - LLReformerKeysKit (from `../`)
+
+EXTERNAL SOURCES:
+  LLReformerKeysKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LLReformerKeysKit: cabefe9321cbbeb47b178689a8362e7a41676e8d
+
+PODFILE CHECKSUM: b635b5fef947b19bde43d6a80f5f0d01b285ad29
+
+COCOAPODS: 1.10.1
